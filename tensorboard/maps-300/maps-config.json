@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "MAPS Bootcamp Word2Vec",
+      "tensorShape": [
+        10000,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/jrkns/nlpclass/master/tensorboard/maps-300/weights.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jrkns/nlpclass/master/tensorboard/maps-300/metadata.tsv"
+    }
+  ]
+}
